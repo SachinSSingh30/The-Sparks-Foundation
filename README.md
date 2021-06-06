@@ -1,5 +1,5 @@
 # The-Sparks-Foundation
-### # Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
+### # Task-6 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 
 
 1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
